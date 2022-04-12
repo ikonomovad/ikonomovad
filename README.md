@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ikonomovad
-- 🌱 I’m currently learning PHP,JavaScript
+- 🌱 I’m currently learning React
 - 📫 How to reach me ikonomovad@gmail.com
 
 <!---
