@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ikonomovad
-- 🌱 I’m currently learning Python
-- 📫 How to reach me ikonomovad@gmail.com
 
 <!---
 ikonomovad/ikonomovad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
